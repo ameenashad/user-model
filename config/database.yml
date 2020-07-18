@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  database: user-model
+  host: localhost
+test:
+  adapter: postgresql
+  database: user-model
+  host: localhost
